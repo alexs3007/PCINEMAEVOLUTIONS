@@ -137,5 +137,26 @@ namespace CapaPresentacion.Formularios
             frm.Show();
             frm.Location = new Point(200, 200);
         }
+
+        private void pnlFactura_Click(object sender, EventArgs e)
+        {
+            FrmFactura frm = new FrmFactura();
+            frm.Show();
+            frm.Location = new Point(330, 180);
+        }
+
+        private void pnlPelicula_Click(object sender, EventArgs e)
+        {
+            FrmPelicula frm = new FrmPelicula();
+            frm.Show();
+            frm.Location = new Point(120, 130);
+        }
+
+        private void pnlTecnologia_Click(object sender, EventArgs e)
+        {
+            FrmPelicula_Tecnologia frm = new FrmPelicula_Tecnologia();
+            frm.Show();
+            frm.Location = new Point(120, 130);
+        }
     }
 }

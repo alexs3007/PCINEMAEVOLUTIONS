@@ -194,7 +194,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
@@ -236,6 +238,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LOGOCINE3.ico" />
+    <None Include="Resources\tecnologia.png" />
+    <None Include="Resources\pelicula.png" />
+    <None Include="Resources\factura.png" />
+    <None Include="Resources\cinta1.png" />
+    <None Include="Resources\cinta.png" />
+    <None Include="Resources\cinta_png_by_miicalr-d5bsr0f1.png" />
+    <None Include="Resources\cinta_png_by_miicalr-d5bsr0f.png" />
     <None Include="Resources\carterleracirculo.png" />
     <None Include="Resources\cartelera1.png" />
     <None Include="Resources\cartelera.png" />

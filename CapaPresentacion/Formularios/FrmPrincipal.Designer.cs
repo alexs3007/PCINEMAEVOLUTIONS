@@ -37,6 +37,9 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.pnlCartelera = new System.Windows.Forms.Panel();
             this.pnlCarteleraS = new System.Windows.Forms.Panel();
+            this.pnlFactura = new System.Windows.Forms.Panel();
+            this.pnlPelicula = new System.Windows.Forms.Panel();
+            this.pnlTecnologia = new System.Windows.Forms.Panel();
             this.statusStrip.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -103,11 +106,43 @@
             this.pnlCarteleraS.BackColor = System.Drawing.Color.Transparent;
             this.pnlCarteleraS.BackgroundImage = global::CapaPresentacion.Properties.Resources.carterleracirculo;
             this.pnlCarteleraS.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pnlCarteleraS.Location = new System.Drawing.Point(0, 45);
+            this.pnlCarteleraS.Location = new System.Drawing.Point(26, 51);
             this.pnlCarteleraS.Name = "pnlCarteleraS";
             this.pnlCarteleraS.Size = new System.Drawing.Size(100, 100);
             this.pnlCarteleraS.TabIndex = 9;
             this.pnlCarteleraS.Click += new System.EventHandler(this.pnlCarteleraS_Click);
+            // 
+            // pnlFactura
+            // 
+            this.pnlFactura.BackColor = System.Drawing.Color.Transparent;
+            this.pnlFactura.BackgroundImage = global::CapaPresentacion.Properties.Resources.factura;
+            this.pnlFactura.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pnlFactura.Location = new System.Drawing.Point(132, 51);
+            this.pnlFactura.Name = "pnlFactura";
+            this.pnlFactura.Size = new System.Drawing.Size(100, 100);
+            this.pnlFactura.TabIndex = 13;
+            this.pnlFactura.Click += new System.EventHandler(this.pnlFactura_Click);
+            // 
+            // pnlPelicula
+            // 
+            this.pnlPelicula.BackColor = System.Drawing.Color.Transparent;
+            this.pnlPelicula.BackgroundImage = global::CapaPresentacion.Properties.Resources.pelicula;
+            this.pnlPelicula.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pnlPelicula.Location = new System.Drawing.Point(238, 51);
+            this.pnlPelicula.Name = "pnlPelicula";
+            this.pnlPelicula.Size = new System.Drawing.Size(100, 100);
+            this.pnlPelicula.TabIndex = 15;
+            this.pnlPelicula.Click += new System.EventHandler(this.pnlPelicula_Click);
+            // 
+            // pnlTecnologia
+            // 
+            this.pnlTecnologia.BackgroundImage = global::CapaPresentacion.Properties.Resources.tecnologia;
+            this.pnlTecnologia.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pnlTecnologia.Location = new System.Drawing.Point(344, 51);
+            this.pnlTecnologia.Name = "pnlTecnologia";
+            this.pnlTecnologia.Size = new System.Drawing.Size(100, 100);
+            this.pnlTecnologia.TabIndex = 17;
+            this.pnlTecnologia.Click += new System.EventHandler(this.pnlTecnologia_Click);
             // 
             // FrmPrincipal
             // 
@@ -117,6 +152,9 @@
             this.BackgroundImage = global::CapaPresentacion.Properties.Resources.Imagen1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1362, 741);
+            this.Controls.Add(this.pnlTecnologia);
+            this.Controls.Add(this.pnlPelicula);
+            this.Controls.Add(this.pnlFactura);
             this.Controls.Add(this.pnlCarteleraS);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.statusStrip);
@@ -142,6 +180,9 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel pnlCartelera;
         private System.Windows.Forms.Panel pnlCarteleraS;
+        private System.Windows.Forms.Panel pnlFactura;
+        private System.Windows.Forms.Panel pnlPelicula;
+        private System.Windows.Forms.Panel pnlTecnologia;
     }
 }
 
