@@ -126,6 +126,12 @@
   </data>
   <data name="Movies_256x256" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Movies_256x256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+<<<<<<< HEAD
+  </data>
+  <data name="calendarioNuevo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\calendarioNuevo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+>>>>>>> 635b6b8c3cdd9935d4e5eea9aa02b6d0c4915eac
   </data>
   <data name="nuevoicon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nuevoicon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,6 +139,13 @@
   <data name="nuevoicon23" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nuevoicon23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
+  <data name="carterleracirculo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carterleracirculo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imagen1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagen1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
   <data name="nuevogris" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nuevogris.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -150,18 +163,33 @@
   </data>
   <data name="cartelera" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cartelera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 635b6b8c3cdd9935d4e5eea9aa02b6d0c4915eac
+  </data>
+  <data name="cinta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cinta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="boton para fondo de busqueda" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\boton para fondo de busqueda.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
+  <data name="pelicula" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pelicula.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NULLA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NULLA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
   <data name="guardargris" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\guardargris.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 635b6b8c3cdd9935d4e5eea9aa02b6d0c4915eac
   </data>
   <data name="guardaricon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\guardaricon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NUEVO" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\NUEVO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cinta_png_by_miicalr-d5bsr0f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cinta_png_by_miicalr-d5bsr0f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="image_add1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\image_add1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -181,12 +209,25 @@
   <data name="cancelaricon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cancelaricon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="factura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="estrella" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\estrella.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="cartelera1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cartelera1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+<<<<<<< HEAD
+  <data name="cinta1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cinta1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2017-07-29 at 2.12.11 PM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2017-07-29 at 2.12.11 PM.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+>>>>>>> 0d7d7f757ef84c148b777e7235489a5f6d83b0c9
   <data name="Loginn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Loginn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -195,10 +236,15 @@
   </data>
   <data name="guardaricon23" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\guardaricon23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 635b6b8c3cdd9935d4e5eea9aa02b6d0c4915eac
   </data>
   <data name="Captura de pantalla (68)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Captura de pantalla (68).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
+  <data name="cinta_png_by_miicalr-d5bsr0f1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cinta_png_by_miicalr-d5bsr0f1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
   <data name="calendarioNuevo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\calendarioNuevo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -222,6 +268,7 @@
   </data>
   <data name="cancelargris" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cancelargris.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 635b6b8c3cdd9935d4e5eea9aa02b6d0c4915eac
   </data>
   <data name="WhatsApp Image 2017-07-29 at 2.12.11 PM" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WhatsApp Image 2017-07-29 at 2.12.11 PM.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -229,10 +276,23 @@
   <data name="Captura de pantalla (69)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Captura de pantalla (69).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
+  <data name="bordesuperior" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bordesuperior.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tecnologia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tecnologia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
   <data name="nuevoicon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\nuevoicon2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="factura" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\factura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="cancelaricon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancelaricon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 635b6b8c3cdd9935d4e5eea9aa02b6d0c4915eac
+>>>>>>> 0d7d7f757ef84c148b777e7235489a5f6d83b0c9
   </data>
 </root>

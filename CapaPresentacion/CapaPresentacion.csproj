@@ -212,7 +212,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
@@ -254,7 +256,19 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LOGOCINE3.ico" />
+<<<<<<< HEAD
     <None Include="Resources\factura.png" />
+=======
+<<<<<<< HEAD
+    <None Include="Resources\tecnologia.png" />
+    <None Include="Resources\pelicula.png" />
+    <None Include="Resources\factura.png" />
+    <None Include="Resources\cinta1.png" />
+    <None Include="Resources\cinta.png" />
+    <None Include="Resources\cinta_png_by_miicalr-d5bsr0f1.png" />
+    <None Include="Resources\cinta_png_by_miicalr-d5bsr0f.png" />
+=======
+>>>>>>> 0d7d7f757ef84c148b777e7235489a5f6d83b0c9
     <None Include="Resources\cancelaricon.png" />
     <None Include="Resources\actualizaricon.png" />
     <None Include="Resources\guardaricon23.png" />
@@ -273,6 +287,7 @@
     <None Include="Resources\actualizar.png" />
     <None Include="Resources\guardar.png" />
     <None Include="Resources\NUEVO.png" />
+>>>>>>> 635b6b8c3cdd9935d4e5eea9aa02b6d0c4915eac
     <None Include="Resources\carterleracirculo.png" />
     <None Include="Resources\cartelera1.png" />
     <None Include="Resources\cartelera.png" />
